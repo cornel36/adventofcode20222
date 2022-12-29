@@ -58,7 +58,7 @@ def round(x, y):
 
 #5 Read the file and put everything together
 
-input_file: str = 'C:/Users/Bob/OneDrive/Pulpit/advent of code/2/data.txt'
+input_file = 'C:/Users/Bob/OneDrive/Pulpit/adventofcode/2/data.txt'
 
 result = 0
 with open(input_file, 'r') as file:
